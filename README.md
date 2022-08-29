@@ -1,4 +1,4 @@
-Hi there! :wave: 
+#Hi there! :wave: 
 My name is Kseniya and I'm QA Automation Engineer 👩‍💻 from California, US :globe_with_meridians:
 
 🔗 Feel free to learn more & connect with me:
