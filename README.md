@@ -1,7 +1,7 @@
 # Hi,welcome to my GitHub! :wave: 
 ## My name is **Kseniya** and I'm **QA Automation Engineer** 👩‍💻 from California, US :globe_with_meridians:
 
-**🔗Let's connect! Find me on:**
+**🔗 Let's connect! Find me on:**
 
 [![Linkedin Badge](https://img.shields.io/badge/-KseniyaParadzina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kseniya-paradzina/)](https://www.linkedin.com/in/kseniya-paradzina/)
 [![Gmail Badge](https://img.shields.io/badge/-paradiksu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paradiksu@gmail.com)](mailto:paradiksu@gmail.com)
