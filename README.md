@@ -20,4 +20,4 @@ __________________
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=blue)
+
