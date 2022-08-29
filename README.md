@@ -1,13 +1,13 @@
-Hi there! :wave: 
-My name is Kseniya and I'm QA Automation Engineer 👩‍💻 from California, US :globe_with_meridians:
+**Hi** there! :wave: 
+My name is **Kseniya** and I'm **QA Automation Engineer** 👩‍💻 from California, US :globe_with_meridians:
 
-🔗 Feel free to learn more & connect with me:
+🔗 Feel free to learn more & **connect with me:**
 
 [![Linkedin Badge](https://img.shields.io/badge/-KseniyaParadzina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kseniya-paradzina/)](https://www.linkedin.com/in/kseniya-paradzina/)
 [![Gmail Badge](https://img.shields.io/badge/-paradiksu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paradiksu@gmail.com)](mailto:paradiksu@gmail.com)
 
 
-🛠️ Languages & Tools:
+🛠️ **Languages & Tools:**
 __________________
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
