@@ -1,4 +1,4 @@
-# Hi,welcome to my GitHub! :wave: 
+# Hi, welcome to my GitHub! :wave: 
 ## My name is **Kseniya** and I'm **QA Automation Engineer** 👩‍💻 from California, US :globe_with_meridians:
 
 **🔗 Let's connect! Find me on:**
